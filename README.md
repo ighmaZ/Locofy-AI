@@ -18,7 +18,10 @@ LocofyAi is a tool that helps you turn your Figma or Adobe XD designs into produ
 - Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
 
-https://github.com/ighmaZ/Locofy-AI/assets/44942623/282cc9e5-11c2-417d-bfdb-c426a33c7384
+
+https://github.com/ighmaZ/Locofy-AI/assets/44942623/1d26b2a5-d843-430e-ad9e-f12ccb792cab
+
+
 
 
 
