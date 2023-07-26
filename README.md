@@ -1,3 +1,4 @@
+Locofy.ai, a front-end development acceleration platform that uses artificial intelligence to convert designs to code
 
   # staRTUP
 
@@ -7,4 +8,3 @@
   1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
   2) In the terminal, run `npm install`
   3) Run `npm run dev` to view project in browser
-  
